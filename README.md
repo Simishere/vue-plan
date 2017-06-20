@@ -1,8 +1,8 @@
 # vue-plan
 
 > A Vue.js project
-# 一个计划表应用。
-# 采用vue全家桶开发,使用vue-cli创建项目,vue-router实现单页路由,用vuex管理数据流
+#### 一个计划表应用。
+#### 采用vue全家桶开发,使用vue-cli创建项目,vue-router实现单页路由,用vuex管理数据流
 
 
 ## Build Setup
